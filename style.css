@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  
+  .container {
+    margin: 15px auto;
+    width: 70%;
+  }
+  
+  .violet{
+      background-color: violet;
+      width: 100%;
+      height: 140px;
+      margin-top: 20px;
+      
+  }
+  
+  
+  .beige{
+      background-color: #e1d67a;
+      width: 100%;
+      height: 500px;
+      margin-top: 20px;
+      
+  }
+  
+  .light-blue{
+      background-color: lightblue;
+      width: 100%;
+      height: 500px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      
+  }
+  
+  .riquadro-top{
+      height: 10%;
+  }
+  
+  
+  .riquadro{
+      float: left;
+      width: 25%;
+      border-top: 16px solid blue;
+      border-bottom: 16px solid blue;
+      height: 90%;
+  }
+  
+  
+  .big{
+      width: 50%;
+      border-right: 14px solid blue;
+      border-left: 14px solid blue;
+  }
+  
+  .purple{
+      background-color: #8801fe;
+      width: 100%;
+      height: 70px;
+      margin-top: 10px;
+      
+  }
