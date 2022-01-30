@@ -20,7 +20,7 @@
 
     .header li{
         list-style-type: none;
-        display: inline-block
+        display: inline;
     }
   
     .header li{
@@ -39,6 +39,7 @@
       height: 550px;
       margin-top: 20px;
       border-radius: 8px;
+      filter: brightness(80%);
     }
 
     .yoga img{
@@ -98,6 +99,8 @@
     background-repeat: no-repeat;
     border: 1px solid lightgray;
     height: 50%;
+    filter: brightness(80%);
+
 }
 
 .riquadro:nth-child(1){
@@ -110,7 +113,7 @@
 
 .riquadro:nth-child(2){
     background-image: url("img/banner-2.jpg");
-    background-size: 80%;
+    background-size: 100%;
     background-position: top;
     border-radius: 8px;
     margin: auto 32px;
