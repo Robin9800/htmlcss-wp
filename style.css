@@ -99,7 +99,8 @@
 
 .riquadro:nth-child(1){
     background-image: url("img/img-1.jpg");
-    background-position: top;
+    background-size: cover;
+    background-position: center;
     border-radius: 8px;
     width: 22%;
     
@@ -108,7 +109,7 @@
 .riquadro:nth-child(2){
     background-image: url("img/banner-2.jpg");
     background-size: cover;
-      background-position: center;
+    background-position: center;
     border-radius: 8px;
     margin: auto 32px;
     width: 50%;
