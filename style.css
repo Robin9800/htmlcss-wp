@@ -48,7 +48,7 @@
     }
 
     .yoga h1,p{
-        padding-left: 70px;
+        padding-left: 0px;
         color: white;
     }
 
@@ -127,7 +127,7 @@
     font-size: 20px;
 }
 
-.riquadro h5{
+.riquadro p{
     margin-top: 10px;
     color: lightgray;
     font-size: 13px;
