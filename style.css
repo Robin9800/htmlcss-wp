@@ -35,8 +35,9 @@
   
   .yoga{
       background-image: url("img/banner.jpg");
-      width: 100%;
-      height: 550px;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
       margin-top: 20px;
       border-radius: 8px;
       filter: brightness(80%);
